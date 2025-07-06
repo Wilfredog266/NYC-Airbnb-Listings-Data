@@ -1,3 +1,5 @@
+# [View the live Google Sheets document](https://docs.google.com/spreadsheets/d/1xEgFK6v5ssk3dVJ5jrwPwhAGN-KurmYAnDONjhbOg4g/edit?usp=sharing)
+
 # 🏡 Airbnb Data Analysis Project – Manhattan, NYC
 
 ## 📍 Project Overview
